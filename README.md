@@ -2,7 +2,7 @@
 
 ## Hallo, Ich bin Yusuf Aksu. Das ist mein Github Profil
 
-preview
+
 <h1 align="center">Hi 👋, I'm Yusuf Aksu</h1>
 <h3 align="center">A passionate Mobile Developer in Turkey</h3>
 
