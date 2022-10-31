@@ -2,13 +2,7 @@
 
 ## Hallo, Ich bin Yusuf Aksu. Das ist mein Github Profil
 
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% height: 50%" />
-</div>  
-  
-
-### <div align="center">I'm Yusuf, a full-time Mobile Developer. Working in an e-commerce company.  </div>  
+### <div align="center">A full-time Mobile Developer. Working in an e-commerce company.  </div>  
   
 
 - 🌱 I’m currently learning Swift and German  
