@@ -2,7 +2,7 @@
 
 ## Hallo, Ich bin Yusuf Aksu. Das ist mein Github Profil
 
-### <div align="center">A full-time Mobile Developer. Working in an e-commerce company.  </div>  
+### <div align="center">I used to a mobile developer. Now I will be following other departments.  </div>  
   
 
 - 🌱 I’m currently learning Swift and German  
