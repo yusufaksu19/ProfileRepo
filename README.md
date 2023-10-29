@@ -3,7 +3,7 @@
 ### <div align="center">I used to be a mobile developer. Now I will be following other departments.  </div>  
   
 
-- 🌱 I’m currently learning Python and AI technologies. 
+- 🌱 I’m currently learning Unity and Asp.Net Core.
   
 
 
